@@ -1,0 +1,13 @@
+Acme Technologies Employee Policy Handbook
+
+Section 1: Leave Policy
+Every full-time employee gets 24 days of paid leave per year. Leave is credited on 1 January. Up to 10 unused leave days can be carried forward to the next year. Employees must apply for leave at least 3 working days in advance through the HR portal. Sick leave is separate: employees get 12 days of paid sick leave per year, and a medical certificate is required for more than 2 consecutive days.
+
+Section 2: Working Hours
+Standard working hours are 9:30 AM to 6:30 PM, Monday to Friday. Employees may work from home 2 days per week with manager approval. Core collaboration hours are 11:00 AM to 4:00 PM, when everyone should be reachable.
+
+Section 3: Data Security
+Confidential company data must never be uploaded to public AI tools or personal cloud storage. All client documents must be stored only on company servers. Employees must lock their computers when away from their desks. Any suspected data breach must be reported to the IT Security team within 2 hours.
+
+Section 4: Travel and Expenses
+Domestic flights must be booked in economy class. Hotel stays are reimbursed up to 6000 rupees per night in metro cities and 4000 rupees per night elsewhere. Expense claims must be submitted within 15 days of returning from the trip, with original bills attached.
