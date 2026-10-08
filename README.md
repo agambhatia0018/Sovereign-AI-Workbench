@@ -52,8 +52,8 @@ ollama pull llama3.2:3b
 ollama pull nomic-embed-text
 
 # 2. Set up the project
-git clone https://github.com/<your-username>/sovereign-ai-workbench.git
-cd sovereign-ai-workbench
+git clone https://github.com/agambhatia0018/Sovereign-AI-Workbench.git
+cd Sovereign-AI-Workbench
 python -m venv .venv
 .venv\Scripts\activate          # Windows
 # source .venv/bin/activate     # Linux / macOS
